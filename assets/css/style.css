@@ -1,0 +1,159 @@
+.backgroundColor {
+    background: #E8E8E8;
+}
+
+/* Header */
+.headerBar {
+    width: 100%;
+    height: 100px;
+    background: #ffffff;
+    margin: auto;
+    position: relative;
+    border-bottom: #cccccc solid 2px;
+
+}
+
+.myName {
+    background: #4EAAA4;
+    height: 100px;
+    width: 255px;
+    position: absolute;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    left: 150px;
+    font-size: 40px;
+    line-height: 90px;
+    
+
+    
+}
+
+.tabs {
+    position: absolute; 
+    line-height: 90px;
+    left: 877px;
+    text-decoration: none;
+    
+}
+   
+
+/* Body */
+
+.descriptionBox {
+    background: #ffffff;
+    width: 960px;
+    position: relative;
+    top: 35px;
+    left: 150px;
+    height: 430px;
+    
+
+}
+
+.textAndImage {
+    position: relative;
+    left: 10px;
+    bottom: 27px;
+}
+
+.greyLineBreak {
+    background: #dddddd;
+    height: 3px;
+    width: 900px;
+    position: relative;
+    bottom: 41px;
+    left: 23px;
+
+    
+}
+
+.descriptionText {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #777777;
+    padding: 10px 54px 10px 10px;
+    line-height: 33px;
+
+
+    
+}
+
+#headShot {
+    float: left;
+    bottom: 36px;
+    margin: 10px;
+    left: 16px;
+   
+    
+    
+    
+}
+
+.aboutMe {
+    height: 100px;
+    width: 200px;
+    color: #4EAAA4;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 28px;
+    position: relative;
+    left: 24px;
+    top: 17px;
+    font-weight: bold;
+    
+
+
+}
+
+.aboutTab {
+    text-decoration: none;
+    margin-right: 5px;
+    padding-right: 15px;
+    border-right: #EAEAEA solid 1px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #777777;
+}
+
+.portfolioTab {
+    text-decoration: none;
+    margin-right: 5px;
+    padding-right: 15px;
+    border-right: #EAEAEA solid 1px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #777777;
+    padding-left: 15px;
+}
+
+.contactTab  {
+        text-decoration: none;
+        margin-right: 5px;
+        padding-right: 15px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+        color: #777777;
+    }
+
+
+
+
+
+
+
+
+/* Footer */
+
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background: #666666;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    border-top: #4EAAA4 3px solid;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 10px;
+    line-height: 110px;
+    
+
+}
+

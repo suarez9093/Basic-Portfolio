@@ -1,0 +1,160 @@
+/* Header */
+.headerBar {
+    width: 100%;
+    height: 100px;
+    background: #ffffff;
+    margin: auto;
+    position: relative;
+    border-bottom: #cccccc solid 2px;
+
+}
+
+.myName {
+    background: #4EAAA4;
+    height: 100px;
+    width: 255px;
+    position: absolute;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    left: 150px;
+    font-size: 40px;
+    line-height: 90px;
+       
+}
+
+.tabs {
+    position: absolute; 
+    line-height: 90px;
+    left: 877px;
+    text-decoration: none;
+    
+}
+
+.aboutTab {
+    text-decoration: none;
+    margin-right: 5px;
+    padding-right: 15px;
+    border-right: #EAEAEA solid 1px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #777777;
+}
+
+.portfolioTab {
+    text-decoration: none;
+    margin-right: 5px;
+    padding-right: 15px;
+    border-right: #EAEAEA solid 1px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #777777;
+    padding-left: 15px;
+}
+
+.contactTab  {
+        text-decoration: none;
+        margin-right: 5px;
+        padding-right: 15px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+        color: #777777;
+
+    }
+
+/*footer*/
+
+    .footer {
+        width: 100%;
+        height: 100px;
+        background: #666666;
+        position: fixed;
+        bottom: 0px;
+        text-align: center;
+        border-top: #4EAAA4 3px solid;
+        color: white;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+        font-size: 10px;
+        line-height: 110px;
+        
+    
+    }
+
+    .contactBox {
+        background: #ffffff;
+        width: 960px;
+        position: relative;
+        top: 35px;
+        left: 150px;
+        height: 430px;
+        
+    
+    }
+
+    .contact {
+        height: 100px;
+        width: 200px;
+        color: #4EAAA4;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+        font-size: 28px;
+        position: relative;
+        left: 24px;
+        top: 17px;
+        font-weight: bold;
+        
+    
+    
+    }
+
+    .greyLineBreak {
+        background: #dddddd;
+        height: 3px;
+        width: 900px;
+        position: relative;
+        bottom: 41px;
+        left: 23px;
+    
+    }
+
+.nameInput {
+    width: 800px;
+}
+
+.textarea {
+    width: 100%;
+    
+  }
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    
+    padding: 20px;
+  }
+
+
+
+    
+
+   
